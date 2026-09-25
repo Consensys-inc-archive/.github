@@ -4,6 +4,9 @@ This organization preserves repositories that Consensys no longer actively maint
 available so the community can keep using, studying, and building on them. Private and internal repositories are
 kept for historical and intellectual property purposes.
 
+Projects that Consensys actively maintains are in its main organization,
+[Consensys Incorporated](https://github.com/Consensys-Incorporated).
+
 ## Using these repositories
 
 - Repositories here are archived and read-only: you can browse, clone, fork, and star them, but not open issues
